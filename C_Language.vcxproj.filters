@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="27_student\student\student.c" />
+    <ClCompile Include="26_bit_flag.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="19_preprocesser2\test2.h" />
+    <ClInclude Include="27_student\student\student.h" />
+  </ItemGroup>
+</Project>
